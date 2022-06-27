@@ -1,3 +1,2 @@
-print(3)
+print(1)
 print("test")
-print(5)
