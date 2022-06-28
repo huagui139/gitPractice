@@ -1,2 +1,3 @@
 print(4)
-print("issue2")
+print("newfunction2")
+
