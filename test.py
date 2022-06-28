@@ -1,4 +1,5 @@
 print(4)
 issue1
-print("newfunction2")
+issue2
+print("issue")
 
