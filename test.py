@@ -1,2 +1,2 @@
 print(4)
-print("newfunction1")
+print("newfunction2")
